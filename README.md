@@ -1,6 +1,12 @@
 ObjectKit
 =========
 
+## Archived 03 July 2021
+
+This project is now archived, mostly because its origin does not promote the equality and equity values that are important to me (it is, quite plainly, misogynistic), and because JavaScript now supports [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining), making using this library unnecessary.
+
+---
+
 ObjectKit is a better object handler for JavaScript, forked from [Brototype](https://github.com/letsgetrandy/brototype) (and [bro-tied](http://pepperthecat.github.io/brotie/) so that it's a little less socially questionable ;)
 
 So what *does* it do?
